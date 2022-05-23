@@ -1065,7 +1065,8 @@ h3 [class*='bg-'] {
 .text-intro,
 [class*='content-'] p {
   font-size: 2.4rem;
-  line-height: 4rem; }
+  line-height: 4rem;
+  color: white;}
 
 /* -- Serif -- */
 .text-serif,
@@ -3127,6 +3128,21 @@ pre {
 pre:hover {
   -webkit-box-shadow: 0 8px 16px rgba(0, 40, 160, 0.08), 0 8px 24px rgba(0, 0, 0, 0.08);
           box-shadow: 0 8px 16px rgba(0, 40, 160, 0.08), 0 8px 24px rgba(0, 0, 0, 0.08); }
+
+.habilidades{
+  background-color: white;
+  margin: 25px;
+  padding-left: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.habilidades img {
+  height: 50px;
+  width: 80px;
+  vertical-align: middle;
+}
+
 
 code,
 [class*='bg-'] pre {

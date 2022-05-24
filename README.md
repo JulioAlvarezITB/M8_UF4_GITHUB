@@ -6,7 +6,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/jlantunez/8)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/webslides)
 
-Finally, everything you need to make HTML presentations, landings, and longforms in a beautiful way. Just a basic knowledge of HTML and CSS is required. Designers, marketers, and journalists can now focus on the content. — [https://webslides.tv/demos](https://webslides.tv/demos).
+Finally, everything you need to make HTML presentations, landings, and longforms in a beautiful way. Just a basic knowledge of HTML and CSS is required. Designers, marketers, and journalists can now focus on the content. — [https://github.com/JulioAlvarezITB/M8_UF4_GITHUB](https://github.com/JulioAlvarezITB/M8_UF4_GITHUB).
 
 * * *
 ### Download

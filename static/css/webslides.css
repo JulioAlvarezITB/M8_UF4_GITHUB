@@ -1471,6 +1471,9 @@ section,
 
 /* slide alignment - bottom */
 .slide-bottom {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end; }
@@ -1795,7 +1798,7 @@ footer .column h3 {
   .flexblock.features > li {
     margin-left: 2%;
     margin-right: 2%;
-    width: 29%; }
+    width: 40%; }
   .size-50 .flexblock.features > li {
     width: 46%; }
   .column .flexblock.features > li {
